@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="INTER" title="#INTER" src="https://raw.githubusercontent.com/JeffersonValentim1/Backend-Inter-app/aca96e196f5fcb18dc244801e3fa9b8b1835469c/img/me.jpg" width="400px">
+  <img alt="INTER" title="#INTER" src="https://raw.githubusercontent.com/JeffersonValentim1/Backend-Inter-app/main/img/transition.jpg" width="400px">
 </p>
 
 
