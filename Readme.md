@@ -1,5 +1,5 @@
 <h1 align="center">
-   --- APLICAÇÃO COMPLETA BACKEND EM NODE E FRONTEND EM REACT ---
+   --- APLICAÇÃO BACKEND CONSTRUINDA COM O BANCO INTER E DIO ---
 </h1>
 
 <p align="center">
